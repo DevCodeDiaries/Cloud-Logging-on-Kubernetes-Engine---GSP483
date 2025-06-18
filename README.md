@@ -27,8 +27,9 @@ sudo chmod +x devcode483.sh
 ## ✅ Congratulations! You’ve successfully completed the lab! 😄
 
 ## 📝 Credit
-© Credit: DM for credit or removal request (no copyright intended)
-© All rights and credits for the original content belong to Google Cloud and the Google Cloud Skills Boost platform 🙏
+© Credit: DM for credit or removal request (no copyright intended).
+© All rights and credits for the original content belong to Google Cloud and the Google Cloud Skills Boost platform 🙏.
 
-🛠️ Brought to you by: DevCode Diaries 
+---
+🛠️ Brought to you by: DevCode Diaries.
 📚 Keep learning. Keep building. Keep growing.
