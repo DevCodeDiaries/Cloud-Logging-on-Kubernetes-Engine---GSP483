@@ -1,7 +1,7 @@
 # 📘 Cloud Logging on Kubernetes Engine - GSP483
 
 🚀 **Lab:** Cloud Logging on Kubernetes Engine - GSP483  
-🎥 **Lab Solution Watch on YouTube**
+🎥 **Lab Solution Watch on YouTube[(https://youtu.be/_3qCMSFBVhA?feature=shared)]**
 
 ---
 
@@ -18,11 +18,12 @@ Make sure you follow **Qwiklabs' Terms of Service** and **YouTube’s Community 
 ## 💻 Cloud Shell Setup
 
 ### 🚨 Copy and run the following commands in Cloud Shell:
+## updated
 
 ```bash
-curl -LO raw.githubusercontent.com/DevCode/Google-Cloud-Skills-Boost/master/Cloud%20Logging%20on%20Kubernetes%20Engine/devcode483.sh
-sudo chmod +x devcode483.sh
-./devcode483.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Cloud%20Logging%20on%20Kubernetes%20Engine/techcps483.sh
+sudo chmod +x techcps483.sh
+./techcps483.sh
 ```
 ## ✅ Congratulations! You’ve successfully completed the lab! 😄
 
