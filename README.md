@@ -1,7 +1,7 @@
 # 📘 Cloud Logging on Kubernetes Engine - GSP483
 
-🚀 **Lab Link:** Cloud Logging on Kubernetes Engine - GSP483  
-🎥 **Lab Solution Watch Here**
+🚀 **Lab:** Cloud Logging on Kubernetes Engine - GSP483  
+🎥 **Lab Solution Watch on YouTube**
 
 ---
 
